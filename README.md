@@ -45,5 +45,9 @@ task.resume()
 
 ### Notes
 Describe any challenges encountered while building the app.
-Problem: error message “ SWIFT_VERSION ‘5.1’ is unsupported, supported versions are: 3.0, 4.0, 4.2. (in target ‘Alamofire’) ”.
-Solution: First Google, but found no correct way to deal with it. Then checked Slack's history to see whether other classmates have same issues, but turned out nothing. Finally, solved by Tim's solution in updating my Xcode, which also requires me to update MacBook's software, which took me nearly one hour.
+
+### Problem: 
+error message “ SWIFT_VERSION ‘5.1’ is unsupported, supported versions are: 3.0, 4.0, 4.2. (in target ‘Alamofire’) ”.
+
+### Solution: 
+First Google, but found no correct way to deal with it. Then checked Slack's history to see whether other classmates have same issues, but turned out nothing. Finally, solved by Tim's solution in updating my Xcode, which also requires me to update MacBook's software, which took me nearly one hour.
