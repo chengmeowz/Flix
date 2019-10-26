@@ -51,3 +51,25 @@ error message “ SWIFT_VERSION ‘5.1’ is unsupported, supported versions are
 
 #### Solution: 
 First Google, but found no correct way to deal with it. Then checked Slack's history to see whether other classmates have same issues, but turned out nothing. Finally, solved by Tim's solution in updating my Xcode, which also requires me to update MacBook's software, which took me nearly one hour.
+
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthough GIF
+
+<img src="http://g.recordit.co/iXhQjqOaMe.gif" width=250><br>
+<img src="http://g.recordit.co/j7Mwmqpu76.gif" width=250><br>
+
+### Notes
+Describe any challenges encountered while building the app.
+
+#### When I was working on the project, I found after I clicked the bar tab item "Superhero", movie posters showed in small size and 6 in a row. Then I found one of the classmates also faced the same problem in Slack. Later, I figured it out by changing the Estimate Size in the Collection View as 'None'. And the problem solved.
