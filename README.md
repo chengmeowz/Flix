@@ -64,7 +64,7 @@ First Google, but found no correct way to deal with it. Then checked Slack's his
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/bZZi4HmhzW' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/bZZi4HmhzW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co/).
 
