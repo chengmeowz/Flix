@@ -39,10 +39,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
-### App Walkthough GIF
-
-<img src="http://g.recordit.co/KI6E3sHOyv.gif" width=250><br>
-
 ### Notes
 Describe any challenges encountered while building the app.
 
@@ -63,11 +59,6 @@ First Google, but found no correct way to deal with it. Then checked Slack's his
 #### BONUS
 - [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
-
-### App Walkthough GIF
-
-<img src="http://g.recordit.co/iXhQjqOaMe.gif" width=250><br>
-<img src="http://g.recordit.co/j7Mwmqpu76.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
