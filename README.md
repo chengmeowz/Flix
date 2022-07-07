@@ -60,6 +60,14 @@ First Google, but found no correct way to deal with it. Then checked Slack's his
 - [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://recordit.co/bZZi4HmhzW' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [Recordit](https://recordit.co/).
+
 ### Notes
 Describe any challenges encountered while building the app.
 
